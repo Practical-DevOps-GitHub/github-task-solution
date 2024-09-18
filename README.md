@@ -23,7 +23,6 @@
 
 5. Create project for this repository.
 
-
 6. Add deploy key with name `DEPLOY_KEY` to your repository.
 
 7. Create discord server and add notification when PR was created.
